@@ -1,0 +1,14 @@
+W:\CODES\C#\FINAL\NP++\NP++\bin\Release\NP++.exe.config
+W:\CODES\C#\FINAL\NP++\NP++\bin\Release\NP++.exe
+W:\CODES\C#\FINAL\NP++\NP++\bin\Release\NP++.pdb
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\NP++.csprojAssemblyReference.cache
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\MainWindow.g.cs
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\App.g.cs
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\NP++_MarkupCompile.cache
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\NP++_MarkupCompile.lref
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\MainWindow.baml
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\NP++.g.resources
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\NP__.Properties.Resources.resources
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\NP++.csproj.GenerateResource.cache
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\NP++.exe
+W:\CODES\C#\FINAL\NP++\NP++\obj\Release\NP++.pdb
